@@ -19,7 +19,7 @@ Your folder should be structured as follows:
 │   │   └── Spam.mbox
 │   └── archive_browser.html
 ├── takeout-20231206T082003Z-001.zip
-└── unsub.py
+└── unsub.ipynb
 
 ```
 
