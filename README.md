@@ -1,4 +1,8 @@
-# Email Unsubscribe Notebook
+# 🚀 Email Unsubscribe Magic ✨
+
+Hey there! Welcome to the ultimate tool in your digital arsenal against those pesky spam attacks - your very own Email Unsubscribe Wizard 🧙‍♂️! This Jupyter Notebook is more than just a bunch of code; it's your ticket to a cleaner, more serene inbox 📥.
+
+Tired of endless spam emails clogging up your digital world? Annoyed by subscriptions you don't remember signing up for? We've got you covered! This tool dives into the abyss of your Spam folder and emerges with all those hidden unsubscribe links. It's like a treasure hunt, but instead of gold, you're finding peace of mind 🏝️.
 
 This Python notebook processes emails from a specified `.mbox` file (particularly the Spam folder from a Gmail Takeout export) and sends unsubscribe requests to unique links found in these emails. It only processes emails sent within a specified number of days (default is the last 10 days)
 
