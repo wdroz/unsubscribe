@@ -6,6 +6,8 @@ Tired of endless spam emails clogging up your digital world? Annoyed by subscrip
 
 This Python notebook processes emails from a specified `.mbox` file (particularly the Spam folder from a Gmail Takeout export) and sends unsubscribe requests to unique links found in these emails. It only processes emails sent within a specified number of days (default is the last 10 days)
 
+***limitation**: This only work for news letters with direct links to the unsubscriptions*
+
 ## Project Structure
 
 Your folder should be structured as follows:
